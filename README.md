@@ -21,7 +21,7 @@ these posts by analyzing their keywords.
 
 # DATASET DESCRIPTION
 The dataset for our study is publicly available in online
-and widely used in related tasks for research [11]. The
+and widely used in related tasks for research. The
 dataset includes approximately 6,697 tweets with hashtags
 and multi-word queries with five attributes id, text, sampling,
 round, and label. Here, the boasting class has 781 tweets and
@@ -32,7 +32,7 @@ We preprocess our imbalanced data and tokenize it for
 better performance in our model. We analyze different types
 of classical transformer-based models for classifying boasting
 in social media.
-A. Text Preprocessing\n
+A. Text Preprocessing
 B. Tokenization
 C. Proposed Models
 D. Binary Classification
