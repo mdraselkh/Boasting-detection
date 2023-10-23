@@ -32,7 +32,7 @@ We preprocess our imbalanced data and tokenize it for
 better performance in our model. We analyze different types
 of classical transformer-based models for classifying boasting
 in social media.
-A. Text Preprocessing #
+A. Text Preprocessing\n
 B. Tokenization
 C. Proposed Models
 D. Binary Classification
